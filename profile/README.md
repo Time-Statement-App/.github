@@ -1,4 +1,4 @@
- Time Statement - Clear Work Hour Records and Shareable Time Reports
+# Time Statement - Clear Work Hour Records and Shareable Time Reports
 
 Time Statement helps track work hours, organize entries, and prepare clear summaries for clients, payroll, and projects.
 
